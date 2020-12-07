@@ -1,5 +1,9 @@
 # CleanCodeMemento
 
+## Presentation :
+
+>The purpose of this memento is to help me become a better developer. There is some really obvious advices, but I'm sharing it here so there might be some beginners wanting to know how to Clean Code. I'll also probably share it in case I know someone wishing to code better.
+
 ## Links :
 
 - [Robert C. Martin's github](https://github.com/unclebob)
@@ -37,3 +41,9 @@
 
 - When a function needs several arguments, you should use objects
 - Some switch statements can be replace by OOP
+
+## Comments :
+
+- Only use when the code doesn't explain itself
+- Comments are good but don't abuse it
+- Compensate our failure to make self-explaining code
