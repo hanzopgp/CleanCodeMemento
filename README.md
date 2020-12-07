@@ -17,6 +17,7 @@
 ## Links :
 
 - [Robert C. Martin's github](https://github.com/unclebob)
+- [Clean Code book](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Cleancoder](http://cleancoder.com/products)
 - [Youtube first lesson](https://www.youtube.com/watch?v=7EmboKQH8lM&ab_channel=UnityCoin)
 
