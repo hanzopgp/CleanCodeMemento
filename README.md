@@ -1,5 +1,10 @@
 # CleanCodeMemento
 
+## Links :
+
+- [Cleancoder](http://cleancoder.com/products)
+- [Youtube first lesson](https://www.youtube.com/watch?v=7EmboKQH8lM&ab_channel=UnityCoin)
+
 ## General :
 
 - Cleaning code is almost as long as making code work
