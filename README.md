@@ -25,6 +25,8 @@
 - [Cleancoder](http://cleancoder.com/products)
 - [Youtube first lesson](https://www.youtube.com/watch?v=7EmboKQH8lM&ab_channel=UnityCoin)
 
+<hr>
+
 # Robert C. Martin's advices :
 
 ## General :
@@ -70,9 +72,13 @@
 - Changing the basic color for comments might be a good idea so you don't ignore them on someone else code
 - Design pattern can lead to necessary comments
 
+<hr>
+
 # Personal notes :
 
 - Nothing to see here right now
+
+<hr>
 
 # Visitor notes :
 
