@@ -2,6 +2,7 @@
 
 ## Links :
 
+- [Robert C. Martin's github](https://github.com/unclebob)
 - [Cleancoder](http://cleancoder.com/products)
 - [Youtube first lesson](https://www.youtube.com/watch?v=7EmboKQH8lM&ab_channel=UnityCoin)
 
@@ -11,6 +12,10 @@
 - Sometimes, making code work is less important than doing clean code because no one will be able to help if no one understands it
 - Avoid switch statements unless it's really easy to understand or won't need update 
 - A module should be open for extension but closed for modification (Open Close principle)
+- Use lambda expression to avoid side effects caused by pair function (open()/close() ...)
+- If there is a try catch returning an exception, it should be in a seperate function
+- Avoid code duplication
+- It is more important your peers know how your code works, not the computer
 
 ## Functions :
 
@@ -22,6 +27,7 @@
 - Won't be lost in all these tiny function if you name it well
 - Avoid more than 3 arguments
 - Boolean should not be a function argument, it mean functions could be extracted from that function
+- If it return a value, it should not have side effects
 
 ## Indenting :
 
