@@ -12,6 +12,8 @@
 
 ## Presentation :
 
+<p align="center"><img src="cleancodeimg.jpeg"></p>
+
 >The purpose of this memento is to help me become a better developer. There is some really obvious advices, but I'm sharing it here so there might be some beginners wanting to know how to Clean Code. I'll also probably share it in case I know someone wishing to code better.
 
 ## Links :
