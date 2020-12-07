@@ -88,7 +88,9 @@
 - Good names never need comments
 - Should be able to know what the variable contains just by reading its name
 - The length of a variable name should depend on the scope (e.g : i for a loop, long variable name for a global one)
-- It's the opposite for a function name, no one wants to call 50 times a long name function (e.g open())
+- It's the opposite for a function/class name, no one wants to call 50 times a long name function (e.g open())
+- Distinguish names meaningfully
+- Use names that you can pronounce for code review and pair programming
 
 <hr>
 
