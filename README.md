@@ -9,8 +9,10 @@
 5. [Indenting](#indenting-)
 6. [Objects](#objects-)
 7. [Comments](#comments-)
-8. [Personal notes](#personal-notes-)
-9. [Visitor notes](#visitor-notes-)
+8. [Javadoc](#javadoc-)
+9. [Names](#names-)
+10. [Personal notes](#personal-notes-)
+11. [Visitor notes](#visitor-notes-)
 
 ## Presentation :
 
@@ -40,6 +42,7 @@
 - Avoid code duplication
 - It is more important your peers know how your code works, not the computer
 - Learn about design patterns
+- Readers should never scroll to the right to see the code
 
 ## Functions :
 
@@ -51,8 +54,7 @@
 - Won't be lost in all these tiny function if you name it well
 - Avoid more than 3 arguments
 - Boolean should not be a function argument, it mean functions could be extracted from that function
-- If it return a value, it should not have side effects
-- If it return a boolean, it should start by is....
+- If it returns a value, it should not have side effects
 
 ## Indenting :
 
@@ -78,14 +80,21 @@
 ## Javadoc :
 
 - Javadoc is cool unless the project is only seen by the developer team
-- Don't use javadoc on each classes, functions if not needed. Indeed, javadoc automatism are enough for easy function or classe
+- Don't use javadoc on each classes, functions if not needed. Indeed, javadoc automatism are enough for easy function or classes
 - No HTML in javadoc
+
+## Names :
+
+- Good names never need comments
+- Should be able to know what the variable contains just by reading its name
+- The length of a variable name should depend on the scope (e.g : i for a loop, long variable name for a global one)
+- It's the opposite for a function name, no one wants to call 50 times a long name function (e.g open())
 
 <hr>
 
 # Personal notes :
 
-- Nothing to see here right now
+- If a function returns a boolean and performs a test, its name should start by 'is'
 
 <hr>
 
