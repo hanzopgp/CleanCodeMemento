@@ -9,12 +9,14 @@
 5. [Indenting](#indenting-)
 6. [Objects](#objects-)
 7. [Comments](#comments-)
+8. [Personal notes](#personal-notes-)
+9. [Visitor notes](#visitor-notes-)
 
 ## Presentation :
 
 <p align="center"><img src="cleancodeimg.jpeg"></p>
 
->The purpose of this memento is to help me become a better developer. There is some really obvious advices, but I'm sharing it here so there might be some beginners wanting to know how to Clean Code. I'll also probably share it in case I know someone wishing to code better.
+>The purpose of this memento is to help me become a better developer. There is some really obvious advices, but I'm sharing it here so there might be some beginners wanting to know how to Clean Code. I'll also probably share it in case I know someone wishing to code better. The first part is a bunch of advices taken from Uncle Bob's lessons on youtube. There is a personal notes part at the end, and in case you want to add a stone to the building you can participate at the end.
 
 ## Links :
 
@@ -22,6 +24,8 @@
 - [Clean Code book](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Cleancoder](http://cleancoder.com/products)
 - [Youtube first lesson](https://www.youtube.com/watch?v=7EmboKQH8lM&ab_channel=UnityCoin)
+
+# Robert C. Martin's advices :
 
 ## General :
 
@@ -65,3 +69,11 @@
 - Try to make self-explaining code before using comments, using good variables and functions names ...
 - Changing the basic color for comments might be a good idea so you don't ignore them on someone else code
 - Design pattern can lead to necessary comments
+
+# Personal notes :
+
+- Nothing to see here right now
+
+# Visitor notes :
+
+- I have no friends
