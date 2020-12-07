@@ -1,5 +1,15 @@
 # CleanCodeMemento
 
+## Table of contents :
+
+1. [Presentation](#presentation-)
+2. [Links](#links-)
+3. [General](#general-)
+4. [Functions](#functions-)
+5. [Indenting](#indenting-)
+6. [Objects](#objects-)
+7. [Comments](#comments-)
+
 ## Presentation :
 
 >The purpose of this memento is to help me become a better developer. There is some really obvious advices, but I'm sharing it here so there might be some beginners wanting to know how to Clean Code. I'll also probably share it in case I know someone wishing to code better.
