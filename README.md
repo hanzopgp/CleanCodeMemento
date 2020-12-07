@@ -20,6 +20,7 @@
 - If there is a try catch returning an exception, it should be in a seperate function
 - Avoid code duplication
 - It is more important your peers know how your code works, not the computer
+- Learn about design patterns
 
 ## Functions :
 
@@ -32,6 +33,7 @@
 - Avoid more than 3 arguments
 - Boolean should not be a function argument, it mean functions could be extracted from that function
 - If it return a value, it should not have side effects
+- If it return a boolean, it should start by is....
 
 ## Indenting :
 
@@ -47,3 +49,6 @@
 - Only use when the code doesn't explain itself
 - Comments are good but don't abuse it
 - Compensate our failure to make self-explaining code
+- Try to make self-explaining code before using comments, using good variables and functions names ...
+- Changing the basic color for comments might be a good idea so you don't ignore them on someone else code
+- Design pattern can lead to necessary comments
