@@ -29,7 +29,7 @@
 
 <hr>
 
-# Robert C. Martin's advices :
+# Robert C. Martin's advices
 
 ## General :
 
@@ -94,12 +94,12 @@
 
 <hr>
 
-# Personal notes :
+# Personal notes
 
 - If a function returns a boolean and performs a test, its name should start by 'is'
 
 <hr>
 
-# Visitor notes :
+# Visitor notes
 
 - I have no friends
