@@ -71,6 +71,15 @@
 - Try to make self-explaining code before using comments, using good variables and functions names ...
 - Changing the basic color for comments might be a good idea so you don't ignore them on someone else code
 - Design pattern can lead to necessary comments
+- Can use TODO comments but
+- Never forget to delete commented out code 
+- Comment is always next to its subject
+
+## Javadoc :
+
+- Javadoc is cool unless the project is only seen by the developer team
+- Don't use javadoc on each classes, functions if not needed. Indeed, javadoc automatism are enough for easy function or classe
+- No HTML in javadoc
 
 <hr>
 
