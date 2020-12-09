@@ -94,12 +94,12 @@
 
 <hr>
 
-# Personal notes
+# Personal advices
 
 - If a function returns a boolean and performs a test, its name should start by 'is'
 
 <hr>
 
-# Visitor notes
+# Visitor advices
 
 - I have no friends
