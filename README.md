@@ -102,4 +102,4 @@
 
 # Visitor advices
 
-- I have no friends
+- I have no friends :(
