@@ -2,9 +2,9 @@
 
 ## Table of contents :
 
-1. Presentation](#presentation-)
+1. [Presentation](#presentation-)
 2. [Links](#links-)
-3. [Robert C. Martin's advices](robert-c.-martins-advices)
+3. [Uncle bob advices](#uncle-bob-advices)
 4. [General](#general-)
 5. [Functions](#functions-)
 6. [Indenting](#indenting-)
@@ -30,7 +30,7 @@
 
 <hr>
 
-# Robert C. Martin's advices
+# Uncle Bob advices
 
 ## General :
 
