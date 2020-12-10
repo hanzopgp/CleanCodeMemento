@@ -30,7 +30,7 @@
 
 <hr>
 
-# Uncle Bob advices
+# Uncle Bob's advices
 
 ## General :
 
@@ -102,6 +102,6 @@
 
 <hr>
 
-# Visitor advices
+# Visitor's advices
 
 - I have no friends :(
