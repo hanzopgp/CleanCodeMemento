@@ -4,7 +4,7 @@
 
 I. [Presentation](#presentation-)
 II. [Links](#links-)
-III. [Robert C. Martin's advices](robert-c.-martin\s-advices)
+III. [Robert C. Martin's advices](robert-c.-martin's-advices)
 1. [General](#general-)
 2. [Functions](#functions-)
 3. [Indenting](#indenting-)
