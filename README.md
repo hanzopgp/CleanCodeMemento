@@ -93,6 +93,12 @@
 - Distinguish names meaningfully
 - Use names that you can pronounce for code review and pair programming
 
+## Tests :
+
+- Should use way more tests
+- Tests should be part of the architecture and not just thrown in a file testing everything
+- Use code coverage to check if 100% of code is used
+
 <hr>
 
 # Personal advices
