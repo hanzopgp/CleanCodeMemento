@@ -11,8 +11,8 @@
 7. [Comments](#comments-)
 8. [Javadoc](#javadoc-)
 9. [Names](#names-)
-10. [Personal advices](#personal-advices-)
-11. [Visitor advices](#visitor-advices-)
+10. [Personal advices](#personal-advices)
+11. [Visitor advices](#visitor-advices)
 
 ## Presentation :
 
