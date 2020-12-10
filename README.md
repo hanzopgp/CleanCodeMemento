@@ -4,7 +4,7 @@
 
 1. [Presentation](#presentation-)
 2. [Links](#links-)
-3. [Uncle bob advices](#uncle-bob-advices)
+3. [Uncle Bob's advices](#uncle-bobs-advices)
 4. [General](#general-)
 5. [Functions](#functions-)
 6. [Objects](#objects-)
@@ -13,7 +13,7 @@
 9. [Names](#names-)
 10. [Tests](#tests-)
 11. [Personal advices](#personal-advices)
-12. [Visitor advices](#visitor-advices)
+12. [Visitor's advices](#visitors-advices)
 
 ## Presentation :
 
