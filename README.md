@@ -2,17 +2,18 @@
 
 ## Table of contents :
 
-1. [Presentation](#presentation-)
-2. [Links](#links-)
-3. [General](#general-)
-4. [Functions](#functions-)
-5. [Indenting](#indenting-)
-6. [Objects](#objects-)
-7. [Comments](#comments-)
-8. [Javadoc](#javadoc-)
-9. [Names](#names-)
-10. [Personal advices](#personal-advices)
-11. [Visitor advices](#visitor-advices)
+I. [Presentation](#presentation-)
+II. [Links](#links-)
+III. [Robert C. Martin's advices](robert-c.-martin\s-advices)
+1. [General](#general-)
+2. [Functions](#functions-)
+3. [Indenting](#indenting-)
+4. [Objects](#objects-)
+5. [Comments](#comments-)
+6. [Javadoc](#javadoc-)
+7. [Names](#names-)
+IV. [Personal advices](#personal-advices)
+V. [Visitor advices](#visitor-advices)
 
 ## Presentation :
 
