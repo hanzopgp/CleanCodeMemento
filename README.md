@@ -7,11 +7,11 @@
 3. [Uncle bob advices](#uncle-bob-advices)
 4. [General](#general-)
 5. [Functions](#functions-)
-6. [Indenting](#indenting-)
-7. [Objects](#objects-)
-8. [Comments](#comments-)
-9. [Javadoc](#javadoc-)
-10. [Names](#names-)
+6. [Objects](#objects-)
+7. [Comments](#comments-)
+8. [Javadoc](#javadoc-)
+9. [Names](#names-)
+10. [Tests](#tests-)
 11. [Personal advices](#personal-advices)
 12. [Visitor advices](#visitor-advices)
 
@@ -35,6 +35,7 @@
 ## General :
 
 - Cleaning code is almost as long as making code work
+- One or two level of indentation maximum in a function
 - Sometimes, making code work is less important than doing clean code because no one will be able to help if no one understands it
 - Avoid switch statements unless it's really easy to understand or won't need update 
 - A module should be open for extension but closed for modification (Open Close principle)
@@ -42,6 +43,7 @@
 - If there is a try catch returning an exception, it should be in a seperate function
 - Avoid code duplication
 - It is more important your peers know how your code works, not the computer
+- Some switch statements can be replace by OOP
 - Learn about design patterns
 - Readers should never scroll to the right to see the code
 
@@ -49,22 +51,14 @@
 
 - The name of a function should always contain verbs
 - Should be really small
+- When a function needs several arguments, you should use objects
 - Around 3-15 lines
 - One function does one thing
 - It shouldn't be possible to extract another function if the function is clean
 - Won't be lost in all these tiny function if you name it well
 - Avoid more than 3 arguments
 - Boolean should not be a function argument, it mean functions could be extracted from that function
-- If it returns a value, it should not have side effects
-
-## Indenting :
-
-- One or two level of indentation maximum in a function 
-
-## Objects :
-
-- When a function needs several arguments, you should use objects
-- Some switch statements can be replace by OOP
+- If it returns a value, it should not have side effects 
 
 ## Comments :
 
@@ -98,6 +92,7 @@
 - Should use way more tests
 - Tests should be part of the architecture and not just thrown in a file testing everything
 - Use code coverage to check if 100% of code is used
+- Learn to automate tests
 
 <hr>
 
