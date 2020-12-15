@@ -89,6 +89,7 @@
 
 ## Tests :
 
+- Should learn Test-Driven development
 - Should use way more tests
 - Tests should be part of the architecture and not just thrown in a file testing everything
 - Use code coverage to check if 100% of code is used
