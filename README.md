@@ -100,6 +100,7 @@
 # Personal advices
 
 - If a function returns a boolean and performs a test, its name should start by 'is'
+- Use brackets even when the following code is one line long, or put the line on the same line.
 
 <hr>
 
