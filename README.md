@@ -12,8 +12,9 @@
 8. [Javadoc](#javadoc-)
 9. [Names](#names-)
 10. [Tests](#tests-)
-11. [Personal advices](#personal-advices)
-12. [Visitor's advices](#visitors-advices)
+11. [More from book](#more-from-book)
+12. [Personal advices](#personal-advices)
+13. [Visitor's advices](#visitors-advices)
 
 ## Presentation :
 
@@ -94,6 +95,8 @@
 - Tests should be part of the architecture and not just thrown in a file testing everything
 - Use code coverage to check if 100% of code is used
 - Learn to automate tests
+
+## More from book :
 
 <hr>
 
