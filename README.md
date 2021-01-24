@@ -12,7 +12,7 @@
 8. [Javadoc](#javadoc-)
 9. [Names](#names-)
 10. [Tests](#tests-)
-11. [More from book](#more-from-book)
+11. [More from book](#more-from-book-)
 12. [Personal advices](#personal-advices)
 13. [Visitor's advices](#visitors-advices)
 
